@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, (bom dia, boa tarde e boa noite)
 - 📫 How to reach me: ...(82) 99317-2378.
-
+e-mail:  dorcival.leite@gmail.com
 <!--
 **Dorcival/Dorcival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
